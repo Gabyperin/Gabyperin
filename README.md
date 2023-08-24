@@ -4,11 +4,6 @@
 - 🌱 Estudando Javascript, Python e JQuery
 - 💻 Amo programação e tecnologia!
 - 🐶 Amo doguinhos
-- 
-### 📊 GitHub estatísticas:
-<p> <img align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs?username=Gabyperin&show_icons=true&locale=en&layout=compact" alt = "Gabyperin" /> </p>
-<br><br>
-
 
 <div style="display: inline_block"><br>
   <img align="center" alt="gabi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -27,3 +22,7 @@
   <a href = "https://mail.google.com/mail/u/0/?ogbl#inbox"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
 </div>
+
+### 📊 GitHub estatísticas:
+<p> <img align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs?username=Gabyperin&show_icons=true&locale=en&layout=compact" alt = "Gabyperin" /> </p>
+<br><br>
