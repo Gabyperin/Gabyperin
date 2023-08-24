@@ -1,4 +1,4 @@
-👋 Hiii, eu sou a Gabi Perin
+<h1 align = "center">👋 Hiii, eu sou a Gabi Perin<h1>
 - 📚 Estudante de Front - end
 - 🌱 Estudando Javascript, Python e JQuery
 - 💻 Amo programação e tecnologia!
