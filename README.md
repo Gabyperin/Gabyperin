@@ -4,7 +4,10 @@
 - 🌱 Estudando Javascript, Python e JQuery
 - 💻 Amo programação e tecnologia!
 - 🐶 Amo doguinhos
-
+- 
+### 📊 GitHub estatísticas:
+<p> <img align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs?username=Gabyperin&show_icons=true&locale=en&layout=compact" alt = "Gabyperin" /> </p>
+<br><br>
 
 
 <div style="display: inline_block"><br>
