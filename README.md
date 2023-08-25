@@ -26,3 +26,5 @@
 ### 📊 GitHub estatísticas:
 <p> <img align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs?username=Gabyperin&show_icons=true&locale=en&layout=compact" alt = "Gabyperin" /> </p>
 <br><br>
+
+![Snake animation](https://github.com/GabrielSSGitb/GabrielSSGitb/blob/output/github-contribution-grid-snake.svg)
