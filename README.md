@@ -26,7 +26,6 @@
 
 <img align="left"  width="47%"  src="https://github-readme-stats.vercel.app/api?username=Gabyperin&show_icons=true&theme=midnight-purple" />
 
-### 📊 GitHub estatísticas:
 
 <p> <img align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs?username=Gabyperin&show_icons=true&locale=en&layout=compact" alt = "Gabyperin" /> </p>
 <br><br>
