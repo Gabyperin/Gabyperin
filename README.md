@@ -13,7 +13,7 @@
   <img align="center" alt="gabi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="gabi-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="gabi-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
-  <img align="center" alt="Nick-JQuery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain-wordmark.svg">
+  <img align="center" alt=gabi-JQuery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain-wordmark.svg">
 </div>
 
   ##
@@ -24,10 +24,8 @@
         <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-<img align="left"  width="47%"  src="https://github-readme-stats.vercel.app/api?username=Gabyperin&show_icons=true&theme=midnight-purple" />
-
-
-<p> <img align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs?username=Gabyperin&show_icons=true&locale=en&layout=compact" alt = "Gabyperin" /> </p>
+<img align="left" width="40%"  src="https://github-readme-stats.vercel.app/api?username=Gabyperin&show_icons=true&theme=midnight-purple" />
+<img align="left" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gabyperin&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt = "Gabyperin" />
 <br><br>
 
 ![Snake animation](https://github.com/GabrielSSGitb/GabrielSSGitb/blob/output/github-contribution-grid-snake.svg)
