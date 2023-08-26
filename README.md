@@ -24,8 +24,9 @@
         <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-<img align="left" width="40%"  src="https://github-readme-stats.vercel.app/api?username=Gabyperin&show_icons=true&theme=midnight-purple" />
 <img align="left" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gabyperin&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt = "Gabyperin" />
+<img align="left" width="40%"  src="https://github-readme-stats.vercel.app/api?username=Gabyperin&show_icons=true&theme=midnight-purple" />
+
 <br><br>
 
 ![Snake animation](https://github.com/GabrielSSGitb/GabrielSSGitb/blob/output/github-contribution-grid-snake.svg)
