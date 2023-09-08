@@ -41,7 +41,7 @@
   <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gabyperin&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt = "Gabyperin" />
 </div>
 <div> 
-  <a href="https://www.instagram.com/gabiialvesp_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="mailto:gabiap02@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
