@@ -5,10 +5,11 @@
 
 
   
-- 📚 Estudante de Front - end
+- 🎓 Estudante Full Stack
 - 🌱 Estudando Javascript, Python e JQuery
 - 💻 Amo programação e tecnologia!
 - 🐶 Amo doguinhos
+- 💻 <a target="_blank" href="https://gabi.nicchon.com/"> Meu Portfólio </a> <br>
 
 
 ## Habilidades principais:
