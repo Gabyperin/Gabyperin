@@ -38,11 +38,9 @@
 </p>
   
 ##
-<div>
-  <img align="left" width="47%" height="100%" src="https://github-readme-stats.vercel.app/api?username=Gabyperin&show_icons=true&theme=midnight-purple" />
-  <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gabyperin&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt = "Gabyperin" />
-
-
+<div align="center">  
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Gabyperin&show_icons=true&count_private=true&hide_border=true&title_color=8F0D87&icon_color=8F0D87&text_color=FFFFFF&bg_color=0d1117" alt="ImMael github stats" /> 
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabyperin&layout=compact&hide_border=true&title_color=8F0D87&text_color=FFFFFF&bg_color=0d1117" />
 </div>
 <div> 
   <a href="https://www.instagram.com/gabiialvesp_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
