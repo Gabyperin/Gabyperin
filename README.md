@@ -8,12 +8,12 @@
  -->
 
   
-- 🎓 Estudante Full Stack
-- 🌱 Estudando Javascript, Python e JQuery
-- 💻 Amo programação e tecnologia!
-- 🐶 Amo doguinhos
-- 💻 <a target="_blank" href="https://gabi.nicchon.com/"> Meu Portfólio </a> <br>
-- ❣ <a target="_blank" href="https://gabyperin.github.io/"> Pequeno Site </a> <br>
+- 💜 Estudante Full Stack
+- 🌌 Estudando Javascript, Python e JQuery
+- 🔮 Amo programação e tecnologia!
+- 🪀 Amo doguinhos
+- ♐ <a target="_blank" href="https://gabi.nicchon.com/"> Meu Portfólio </a> <br>
+- 🟣 <a target="_blank" href="https://gabyperin.github.io/"> Pequeno Site </a> <br>
 
 
 ## Habilidades principais:
