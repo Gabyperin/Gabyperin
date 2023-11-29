@@ -9,7 +9,7 @@
 
   
 - 💜 Estudante Full Stack
-- 🟪 Estudando Javascript, Python e JQuery
+- 🟪 Estudando Python  
 - 🔮 Amo programação e tecnologia!
 - 🪀 Amo doguinhos
 - ♐  <a target="_blank" href="https://gabyperin.github.io/"> Meu Portfólio </a> <br>
