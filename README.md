@@ -51,11 +51,8 @@
 <a href="mailto:gabiap02@gmail.com" target="_blank"><img height="30" src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://github.com/Gabyperin" target="_blank"><img height="30" src="https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white"></a>
  <a href="https://twitter.com/gaby_alvesp" target="_blank"><img height="30" src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"></a>
- <a href="" target="_blank"><img height="30" src="https://img.shields.io/badge/-Whatsapp-4AC959?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
- <a href="" target="_blank"><img height="30" src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"></a> 
+ <a href="https://www.linkedin.com/in/gabriela-alves-perin-872500221/" target="_blank"><img height="30" src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"></a> 
 </div>
-
-![Snake animation](https://github.com/GabrielSSGitb/GabrielSSGitb/blob/output/github-contribution-grid-snake.svg)
 
 <div align="center">
 <br><p align="centre"><b>Você é meu visitante nº</b></p>  
