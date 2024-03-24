@@ -8,7 +8,7 @@
  -->
 
   
-- 💜  Estudante Full Stack
+- 💜  Estudante Análise e Desenvolvimento de Sistemas
 - 🟪  Estudando Python  
 - 🔮  Amo programação e tecnologia!
 - 🪀  Amo doguinhos
