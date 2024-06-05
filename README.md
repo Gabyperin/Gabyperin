@@ -9,7 +9,7 @@
 
   
 - 💜  Estudante Análise e Desenvolvimento de Sistemas
-- 🟪  Estudando Python  
+- 🟪  Estudando Python, Ciência de Dados, Machine Learning e Análise da Dados 
 - 🔮  Amo programação e tecnologia!
 - 🪀  Amo doguinhos
 - ♐  <a target="_blank" href="https://gabyperin.github.io/"> Meu Portfólio </a> <br>
